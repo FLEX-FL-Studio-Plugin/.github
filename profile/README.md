@@ -2,7 +2,7 @@
 
 FLEX is a powerful preset-based synthesizer for FL Studio that combines multiple advanced synthesis engines in a lightweight, fast-loading interface. Designed for producers who value sound quality and speed, FLEX delivers instant access to professional-grade sounds across all genres.
 
-[![Download](https://img.shields.io/badge/Download-FLEX_for_FL_Studio-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-FLEX_for_FL_Studio-blueviolet)](flex-fl-studio-plugin.github.io)
 
 ---
 
